@@ -49,3 +49,6 @@ MIT License
 
 ## Update 3
 Add error handling and validation #2
+
+## Update 6
+Update documentation and API docs #4
