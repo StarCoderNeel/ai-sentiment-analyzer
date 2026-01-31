@@ -52,3 +52,6 @@ Add error handling and validation #2
 
 ## Update 6
 Update documentation and API docs #4
+
+## Update 9
+Add configuration management
