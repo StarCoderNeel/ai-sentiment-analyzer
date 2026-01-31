@@ -12,3 +12,5 @@ if __name__ == "__main__":
 # Commit 1: Add basic project structure and configuration
 
 # Commit 4: Implement logging system #3
+
+# Commit 7: Add input validation #5
