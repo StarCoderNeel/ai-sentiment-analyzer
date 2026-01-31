@@ -46,3 +46,6 @@ flake8 src/
 ## License
 
 MIT License
+
+## Update 3
+Add error handling and validation #2
