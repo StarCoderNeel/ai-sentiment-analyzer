@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+plotly
+pytest
+black
+flake8
